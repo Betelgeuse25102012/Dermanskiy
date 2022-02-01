@@ -1,0 +1,120 @@
+    body {
+        background-color: #E0FFFF;
+        color: #0f141e;
+        font-size: 16px;
+        font-weight: normal;
+        font-family: "Playfair Display", serif;
+        }
+    
+    .page {
+        width: auto;
+        padding: 15px;
+        }
+
+    h2, h3, h4 {
+        font-style: italic;
+        margin: 0px;
+        padding: 0px;
+        }
+    
+    a {
+        text-decoration: none;
+        }
+
+    p   { 
+        text-indent: 20px;
+        margin: 0px;
+        margin-bottom: 5px;
+        padding: 0px;
+        }
+
+    .color_Wheat {
+        background: #F5DEB3;
+        padding: 15px;
+        border-radius: 10px;
+        }
+    
+    .avatar {
+        max-width: 150px;
+        border-radius: 10px;
+        margin-right: 10px;
+        float:left;
+        }
+    
+    h2  {
+        color:#D2691E;
+        }
+        
+    .color_Wheat a {
+        color: #D2691E;
+        }
+
+    .a {
+        text-align: right;
+        }
+    
+    a:hover {
+        color: #00FF7F;
+        text-decoration: underline;
+        }
+
+    a:hover img {
+        border: 3px solid #00FF7F;
+        }
+
+    .color_PaleGreen {
+        background: #98FB98;
+        padding: 15px;
+        border-radius: 10px;
+        }
+        
+    .color_PaleGreen h4 {
+        color:#808000;
+        } 
+
+    .picture_book {
+        max-width: 150px;
+        max-height: 225px;
+        border-radius: 5px;
+        margin-right: 10px;
+        float:left;
+        }
+
+    .picture_Omelko {
+        max-width: 150px;
+        max-height: 145px;
+        border-radius: 5px;
+        margin-right: 10px;
+        float:left;
+        }        
+
+    .Text_Omelko {
+        min-height: 150px;
+        }
+    
+    .Text {
+        min-height: 230px;
+        }
+        
+    .Text_Omelko {
+        min-height: 150px;
+        }
+
+    .color_LightPink {
+        background: #FFB6C1;
+        padding: 15px;
+        border-radius: 10px;
+        }
+    
+    .color_LightPink h3 {
+        color:#B22222;
+        text-align:center;
+        }
+    
+    .Chy {
+        text-align: right; 
+        }
+
+    .color_LightPink h4 {
+        color:#FF4500;
+        }
